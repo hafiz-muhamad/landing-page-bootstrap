@@ -1,0 +1,266 @@
+/*about*/
+.about {
+    width: 100%;
+    height: 720px;
+    background-color: #ffffff;
+    padding: 100px;
+    gap: 50px;
+}
+
+.about-photo {
+    width: 30%;
+    height: 100%
+}
+
+.about-img {
+    width: 400px;
+    height: 400px;
+}
+
+.about-content {
+    width: 30%;
+    height: 100%;
+}
+
+.about-text1 {
+    color: #222222;
+    font-family: roboto-bold, sans-serif;
+    font-size: 60px;
+    line-height: 70px;
+}
+
+.about-text2 {
+    color: #222222;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+.about-text3 {
+    color: #222222;
+    font-family: roboto-medium-italic;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+/*service*/
+.service {
+    width: 100%;
+    height: 1300px;
+    background-color: #f3f3f3;
+    padding: 30px 150px;
+}
+
+.service-title p {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 60px;
+    line-height: 100px;
+    margin: 0;
+}
+
+.service-desc p {
+    width: 630px;
+    color: #2d2d2d;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    margin: 0;
+}
+
+.service-content {
+    height: 368px;
+    width: 100%;
+    margin: 50px 0;
+}
+
+.service-option {
+    width: 368px;
+    height: 100%;
+    padding: 50px;
+    gap: 25px;
+    background-color: #ffffff;
+}
+
+.service-text1 {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 28px;
+    line-height: 40px;
+    margin: 0;
+}
+
+.service-text2 {
+    color: #2d2d2d;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    margin: 0;
+}
+
+.service-text3 {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 15px;
+    line-height: 26px;
+    margin: 0;
+    text-shadow: 0 4px 4px #000000;
+}
+
+.service-bg {
+    top: -310px;
+    left: 50px;
+    height: 368px;
+}
+
+.line {
+    border: 2px solid #681c6b;
+    width: 100%;
+}
+
+/*portfolio*/
+.portfolio {
+    width: 100%;
+    height: 720px;
+    padding: 100px;
+}
+
+.portfolio-content {
+    width: 40%;
+    height: 100%;
+}
+
+.portfolio-text1 {
+    color: #2d2d2d;
+    font-family: roboto-bold;
+    font-size: 60px;
+    line-height: 80px;
+    margin: 0;
+    text-align: center;
+}
+
+.portfolio-text2 {
+    color: #747474;
+    font-family: roboto;
+    font-size: 15px;
+    line-height: 28px;
+    margin: 0;
+    text-align: center;
+}
+
+.portfolio-text3 {
+    color: #681c6b;
+    font-family: playfair-bold, serif;
+    font-size: 130px;
+    line-height: 70px;
+    margin: 0;
+}
+
+.portfolio-text4 {
+    color: #2d2d2d;
+    font-family: roboto;
+    font-size: 28px;
+    line-height: 43px;
+    margin: 0;
+}
+
+.portfolio-text5 {
+    color: #2d2d2d;
+    font-family: roboto-bold;
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0;
+}
+
+.portfolio-text6 {
+    color: #681c6b;
+    font-family: roboto;
+    font-size: 15px;
+    line-height: 28px;
+    margin: 0;
+}
+
+.contact {
+    width: 100%;
+    height: 840px;
+}
+
+.contact-form {
+    height: 75%;
+    width: 100%;
+    padding: 50px;
+}
+
+.contact-form-title p {
+    color: #222222;
+    font-family: roboto-bold, sans-serif;
+    font-size: 60px;
+    line-height: 80px;
+    margin: 0;
+}
+
+.contact-form-desc p {
+    width: 630px;
+    color: #222222;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    line-height: 28px;
+    text-align: center;
+    margin: 0;
+}
+
+.form {
+    width: 30%;
+}
+
+.form-input {
+    gap: 10px;
+}
+
+.form-button {
+    width: 200px;
+    height: 60px;
+    background-color: #2d2d2d;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.form-button p {
+    color: #ffffff;
+    font-family: roboto-bold, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.contact-cta {
+    height: 25%;
+    width: 100%;
+    background-color: #7572b9;
+    padding: 50px;
+}
+
+.contact-cta-text {
+    font-family: roboto-bold, sans-serif;
+    font-size: 45px;
+    line-height: 70px;
+    margin: 0;
+    color: #ffffff;
+}
+
+.contact-cta-button {
+    width: 200px;
+    height: 60px;
+    background-color: #2d2d2d;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.contact-cta-button p {
+    color: #ffffff;
+    font-family: roboto-bold, sans-serif;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 0;
+}

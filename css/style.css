@@ -1,0 +1,29 @@
+body {
+    width: 100vw;
+    height: auto;
+    overflow-x: hidden;
+}
+
+.debug {
+    border: 1px solid red;
+}
+
+@font-face {
+    font-family: roboto;
+    src: url("../font/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: roboto-bold;
+    src: url("../font/Roboto-Bold.ttf");
+}
+
+@font-face {
+    font-family: roboto-medium-italic;
+    src: url("../font/Roboto-MediumItalic.ttf");
+}
+
+@font-face {
+    font-family: playfair-bold;
+    src: url("../font/PlayfairDisplay-Bold.ttf");
+}

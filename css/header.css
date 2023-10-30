@@ -1,0 +1,124 @@
+/*header*/
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: #2d2d2d;
+}
+
+.header-content {
+    height: 50px;
+}
+
+.header-text {
+    gap: 25px;
+}
+
+.header-email-text p,
+.header-location-text p {
+    color: #ffffff;
+    font-family: roboto, sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.header-img-bg {
+    height: 38px;
+    width: 38px;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255, 0.05);
+}
+
+.header-img {
+    width: 30px;
+    height: 30px;
+}
+
+.header-link {
+    gap: 10px;
+}
+
+.header-img {
+    width: 25px;
+    height: 25px;
+}
+
+.header-bg1 {
+    width: 233px;
+    height: 50px;
+}
+
+.header-bg2 {
+    width: 233px;
+    height: 50px;
+    top: 0;
+    left: 10px;
+}
+
+.header-bg3 {
+    width: 233px;
+    height: 50px;
+    right: 0px
+}
+
+.header-bg4 {
+    width: 233px;
+    height: 50px;
+    right: 10px
+}
+
+/*menubar*/
+.menubar {
+    width: 100%;
+    height: 94px;
+    background-color: #ffffff;
+}
+
+.menubar-content {
+    gap: 25px;
+    padding: 0 50px 0 50px;
+}
+
+.menubar-logo p {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 38px;
+    line-height: 30px;
+    margin: 0;
+}
+
+.menubar-menu {
+    gap: 20px;
+}
+
+.menubar-menu a {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 17px;
+    line-height: 92px;
+    text-decoration: none;
+}
+
+.menubar-menu a:hover {
+    color: #681c6b;
+    border-bottom: 5px solid #681c6b;
+}
+
+.menubar-call {
+    gap: 10px;
+}
+
+.menubar-img-bg {
+    width: 55px;
+    height: 55px;
+    border-radius: 5px;
+    background-color: #fff1e7;
+}
+
+.menubar-number p {
+    color: #2d2d2d;
+    font-family: roboto-bold, sans-serif;
+    font-size: 25px;
+    line-height: 94px;
+    margin: 0;
+}
